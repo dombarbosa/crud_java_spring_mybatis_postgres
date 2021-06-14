@@ -27,5 +27,5 @@ Criei o arquivo CRUD.md para as etapas de desenvolvimento no Intelij Idea do có
 #
 ## Acesso Rápido
 - [CRUD](CRUD.md)
-- [ConfigurandoPostgres.md](ConfigurandoPostgres.md)
-- [RotasDeTeste.md](RotasDeTeste.md)
+- [ConfigurandoPostgres](ConfigurandoPostgres.md)
+- [RotasDeTeste](RotasDeTeste.md)
