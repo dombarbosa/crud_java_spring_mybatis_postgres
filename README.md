@@ -18,7 +18,7 @@
 #
 ## Inserção Própria
 
-Inseri a parte para criação de uma base dados (forma simples e básica usando o terminal). O resultado foi o ConfigurandoPostgres.md
+Inseri a parte para criação de uma base dados (forma simples e básica usando o terminal). O resultado foi o [ConfigurandoPostgres.md](ConfigurandoPostgres.md)
 
 #
 ## A criação do CRUD
@@ -26,5 +26,6 @@ Criei o arquivo CRUD.md para as etapas de desenvolvimento no Intelij Idea do có
 
 #
 ## Acesso Rápido
-- CRUD.md
-- ConfigurandoPostgres.md
+- [CRUD](CRUD.md)
+- [ConfigurandoPostgres.md](ConfigurandoPostgres.md)
+- [RotasDeTeste.md](RotasDeTeste.md)
