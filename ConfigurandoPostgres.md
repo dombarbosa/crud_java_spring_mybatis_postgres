@@ -24,16 +24,10 @@ curl https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
 sudo sh -c "echo 'deb http://apt.postgresql.org/pub/repos/apt/ buster-pgdg main' >> /etc/apt/sources.list.d/pgdg.list"
 ```
 
-#### Passo 4: Atualize os pacotes
+#### Passo 4: Atualize os pacotes para instalar o postgres11
 
 ```
-sudo apt update
-```
-
-#### Passo 5: Instale o postgres11
-
-```
-sudo apt install postgresql-11
+sudo apt update && sudo apt install -y postgresql-11
 ```
 
 ## Acesse o postgres para criar sua base e usuário para ser utilizado nas configurações de banco
