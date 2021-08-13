@@ -7,10 +7,10 @@ Não testei com outra versão, mas acredito que funcionará também com outras v
 
 ## Comandos para instalar o postgres no debian10
 
-#### Passo 1: instala pacotes necessaŕios, caso não tenha
+#### Passo 1: Atualiza e instala pacotes necessaŕios, caso não tenha
 
 ```
-sudo apt install curl ca-certificates gnupg
+sudo apt update && sudo apt install curl ca-certificates gnupg
 ```
 
 #### Passo 2: Adiciona chave gpg
