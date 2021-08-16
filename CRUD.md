@@ -213,7 +213,7 @@ public class LivroService {
 ### Configure o arquivo application.properties
 ```
 spring.datasource.driverClassName=org.postgresql.Driver
-spring.datasource.url=jdbc:postgresql://localhost:5050/exemplocrud
+spring.datasource.url=jdbc:postgresql://localhost:5432/exemplocrud
 spring.datasource.username=novousuario
 spring.datasource.password=suasenha
 ```
